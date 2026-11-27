@@ -12,7 +12,10 @@ import * as advanced from './advanced.js';
 import * as integration from './integration.js';
 import * as projects from './projects.js';
 
+import * as flacso from './flacso.js';
+
 const modules = [
+  flacso,
   contacts,
   campaigns,
   emails,
