@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.3.0
+
+- Add read-only FLACSO academic offer and aggregate email reporting tools.
+- Add automated tests and CI for Node 22 and 24.
+
 ## 0.2.0
 
 - Changed high-volume contact, segment, campaign, field, activity, and business reads to return compact summaries by default, with `includeRaw: true` available for full Mautic payloads.
